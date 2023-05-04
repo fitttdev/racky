@@ -1,0 +1,12 @@
+GEM
+  specs:
+    rack (3.0.7)
+
+PLATFORMS
+  x86_64-darwin-22
+
+DEPENDENCIES
+  rack
+
+BUNDLED WITH
+   2.4.10
